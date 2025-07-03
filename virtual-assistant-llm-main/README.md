@@ -71,13 +71,3 @@ Let’s see how to implement our virtual assistant using Pathway.
     ```
     $ make push_second_event
     ```
-
-## Video lecture
-
-🔜 Coming soon!
-
-## Wanna learn more real-time ML?
-
-Join more than 10k subscribers to the Real-World ML Newsletter. Every Saturday morning.
-
-[👉🏽 Click to subscribe](https://www.realworldml.net/subscribe)
